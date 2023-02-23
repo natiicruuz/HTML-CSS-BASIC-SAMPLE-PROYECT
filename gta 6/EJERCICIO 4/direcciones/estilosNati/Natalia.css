@@ -1,0 +1,44 @@
+/*Hoja de stulos ejercicio 1 GTA 6 natalia cruz 10-6 */
+
+.titulos
+{
+	color:red;
+	font-size: 26px;
+	font-style:bold;
+	text-align: center;
+}
+
+.subtitulos
+{
+	color:blue;
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: left;
+}
+
+.textoNormal
+{
+	color: black;
+	font-size: 14px;
+}
+
+.textoIzquierda
+{
+	color: green;
+	font-size: 14px;
+	text-align: left;
+}
+
+.textoderecha
+{
+	color:blue;
+	font-size: 14px;
+	text-align: right;
+}
+
+.textoCentrado
+{
+	color: orange;
+	font-size: 14px;
+	text-align: center;
+}
